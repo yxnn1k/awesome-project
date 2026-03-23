@@ -1,0 +1,3 @@
+[submodule "vendor/awesome-module"]
+	path = vendor/awesome-module
+	url = https://github.com/yxnn1k/awesome-module.git
